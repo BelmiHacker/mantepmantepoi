@@ -1,0 +1,634 @@
+.d227ea465814ed5958920ef4b2e46a-icon {
+  height: 100%;
+  width: 100%;
+  z-index: 2;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 7px;
+  transform: scale(1.032);
+}
+.wrapper-33007d227ea465814ed595 {
+  height: 423px;
+  width: 1595px;
+  position: absolute;
+  margin: 0 !important;
+  right: -98px;
+  bottom: -288px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-child7 {
+  align-self: stretch;
+  height: 135px;
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  display: none;
+}
+.brand-links-background {
+  align-self: stretch;
+  height: 13px;
+  position: relative;
+  background-color: var(--color-firebrick-100);
+  z-index: 1;
+}
+.home4,
+.vkelloggs5 {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.vkelloggs5 {
+  margin: 0;
+  height: 94px;
+  width: 304px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.home4 {
+  text-decoration: none;
+  align-self: stretch;
+  height: 54px;
+  color: inherit;
+  cursor: pointer;
+}
+.home-wrapper {
+  width: 117px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.products5 {
+  text-decoration: none;
+  align-self: stretch;
+  height: 54px;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+.products-wrapper {
+  width: 137px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.about-us6,
+.recipes9 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  cursor: pointer;
+  z-index: 1;
+}
+.recipes9 {
+  width: 142px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.about-us6 {
+  align-self: stretch;
+  white-space: nowrap;
+}
+.recipes-about {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi) 0 0;
+}
+.contact-us5 {
+  text-decoration: none;
+  align-self: stretch;
+  height: 54px;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+  z-index: 1;
+}
+.contact-us-wrapper {
+  width: 163px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  color: var(--color-tomato-100);
+}
+.recipes-about-contact {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  gap: var(--gap-7xl);
+  max-width: 100%;
+}
+.home-link,
+.products-link1,
+.recipes-about-contact {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.products-link1 {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  gap: var(--gap-39xl);
+  max-width: 100%;
+}
+.home-link {
+  align-self: stretch;
+  gap: var(--gap-25xl);
+}
+.home-link,
+.home-link-wrapper,
+.navbar-links {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.home-link-wrapper {
+  width: 894px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-9xl) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-21xl);
+}
+.navbar-links {
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.navbar3 {
+  width: 1368px;
+  flex-direction: row;
+  padding: 0 var(--padding-3xl);
+  box-sizing: border-box;
+}
+.navbar3,
+.rectangle-parent3,
+.wrapper-33007d227ea465814ed595-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent3 {
+  flex: 1;
+  background-color: var(--color-whitesmoke-200);
+  flex-direction: column;
+  padding: 0 0 var(--padding-9xl);
+  box-sizing: border-box;
+  z-index: 3;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--color-firebrick-100);
+  font-family: var(--font-figtree);
+}
+.wrapper-33007d227ea465814ed595-parent {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.contact-us7 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-figtree);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  text-shadow: 15px 11px 4px rgba(0, 0, 0, 0.25);
+  max-width: 100%;
+  z-index: 3;
+}
+.contact-us6,
+.frame-section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.contact-us6 {
+  width: 1409px;
+  flex-direction: row;
+  padding: 0 var(--padding-7xs);
+  box-sizing: border-box;
+}
+.frame-section {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 45px;
+}
+.contact-form-child {
+  height: 602px;
+  width: 1435px;
+  position: relative;
+  background-color: var(--color-firebrick-100);
+  display: none;
+  max-width: 100%;
+}
+.phone-number-icon-shape {
+  height: 71px;
+  width: 77px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+.phone-icon {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 80px;
+}
+.phone {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.phone-number {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 50px;
+}
+.form-fields {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  white-space: nowrap;
+  z-index: 1;
+}
+.contact-info,
+.phone-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.phone-info {
+  align-self: stretch;
+  gap: 7.5px;
+}
+.contact-info {
+  width: 291px;
+  padding: 404px 0 0;
+  box-sizing: border-box;
+}
+.form-and-submit-child {
+  width: 743px;
+  height: 571px;
+  position: relative;
+  background-color: var(--color-tomato-200);
+  display: none;
+  max-width: 100%;
+}
+.send-us-your {
+  flex: 1;
+  position: relative;
+  font-size: 27px;
+  font-family: var(--font-bangers);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.send-us-your-feedback-or-compl-wrapper {
+  flex-direction: row;
+  padding: 0 78px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.feedback,
+.feedback-child,
+.send-us-your-feedback-or-compl-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.feedback-child {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 51px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(#fff, #fff), #fff;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-2xl);
+  box-sizing: border-box;
+  font-family: var(--font-bangers);
+  font-size: var(--font-size-3xl);
+  color: var(--color-firebrick-200);
+  min-width: 250px;
+  z-index: 2;
+}
+.feedback {
+  flex-direction: column;
+  gap: 16px;
+  max-width: 100%;
+}
+.form-and-submit-inner,
+.form-and-submit-item,
+.group-input,
+.input-fields {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 51px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(#fff, #fff), #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) var(--padding-2xl);
+  box-sizing: border-box;
+  font-family: var(--font-bangers);
+  font-size: var(--font-size-3xl);
+  color: var(--color-firebrick-200);
+  min-width: 250px;
+  z-index: 2;
+}
+.form-and-submit-inner,
+.group-input,
+.input-fields {
+  padding: var(--padding-mini) var(--padding-2xl) var(--padding-smi);
+}
+.group-input,
+.input-fields {
+  padding: var(--padding-sm) var(--padding-2xl);
+}
+.group-input {
+  height: 110px;
+  padding: var(--padding-mini) var(--padding-2xl) 72px;
+}
+.frame-child8 {
+  height: 35px;
+  width: 184px;
+  position: relative;
+  background-color: var(--color-firebrick-100);
+  display: none;
+}
+.submit {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-bangers);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 55px;
+  z-index: 3;
+}
+.frame-button,
+.submit-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) 64px;
+  background-color: var(--color-firebrick-100);
+  justify-content: flex-start;
+  z-index: 2;
+}
+.frame-button:hover {
+  background-color: #e05752;
+}
+.submit-button {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.form-and-submit,
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.form-and-submit {
+  margin: 0;
+  align-self: stretch;
+  background-color: var(--color-tomato-200);
+  align-items: flex-end;
+  padding: var(--padding-9xl) 76px 24px;
+  gap: var(--gap-6xl);
+  z-index: 1;
+}
+.form-container {
+  flex: 1;
+  align-items: flex-start;
+  padding: 0 var(--padding-2xl) 0 0;
+  min-width: 497px;
+}
+.email-icon-shape,
+.email1 {
+  position: absolute;
+  z-index: 1;
+}
+.email-icon-shape {
+  top: 0;
+  left: 23px;
+  border-radius: 50%;
+  width: 77px;
+  height: 71px;
+  object-fit: contain;
+}
+.email1 {
+  margin: 0;
+  top: 68px;
+  left: 0;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 137px;
+  height: 64px;
+}
+.email {
+  height: 132px;
+  width: 137px;
+  position: relative;
+}
+.email-icon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 69px;
+}
+.vkellogggmailcom {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 1;
+}
+.email-icon-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.email-info {
+  width: 290.1px;
+  flex-direction: column;
+  padding: 414px 0 0;
+  box-sizing: border-box;
+}
+.contact-form,
+.contact-us4,
+.email-info {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-form {
+  align-self: stretch;
+  background-color: var(--color-firebrick-100);
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-lg) var(--padding-sm);
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+  font-family: var(--font-bangers);
+}
+.contact-us4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  gap: 122px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .products-link1 {
+    gap: var(--gap-10xl);
+  }
+  .contact-us7 {
+    font-size: var(--font-size-31xl);
+  }
+  .frame-section {
+    gap: var(--gap-3xl);
+  }
+  .phone {
+    font-size: var(--font-size-29xl);
+  }
+  .form-fields {
+    font-size: var(--font-size-7xl);
+  }
+  .form-and-submit {
+    padding-left: var(--padding-19xl);
+    padding-right: var(--padding-19xl);
+    box-sizing: border-box;
+  }
+  .email1 {
+    font-size: var(--font-size-29xl);
+  }
+  .vkellogggmailcom {
+    font-size: var(--font-size-7xl);
+  }
+  .contact-us4 {
+    gap: 61px;
+  }
+}
+@media screen and (max-width: 675px) {
+  .contact-info {
+    padding-top: 263px;
+    box-sizing: border-box;
+  }
+  .send-us-your-feedback-or-compl-wrapper {
+    padding-left: var(--padding-20xl);
+    padding-right: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+  .form-and-submit {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .form-container {
+    min-width: 100%;
+  }
+  .email-info {
+    padding-top: 269px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .home-link {
+    gap: var(--gap-3xl);
+  }
+  .contact-us7 {
+    font-size: var(--font-size-11xl);
+  }
+  .phone {
+    font-size: var(--font-size-17xl);
+  }
+  .form-fields {
+    font-size: var(--font-size-lgi);
+  }
+  .send-us-your {
+    font-size: var(--font-size-3xl);
+  }
+  .submit {
+    font-size: var(--font-size-lg);
+  }
+  .email1 {
+    font-size: var(--font-size-17xl);
+  }
+  .email-icon {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .vkellogggmailcom {
+    font-size: var(--font-size-lgi);
+  }
+  .contact-us4 {
+    gap: 30px;
+  }
+}

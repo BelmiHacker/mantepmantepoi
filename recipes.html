@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./recipes.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,400;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Boogaloo:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bayon:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bangers:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="recipes2">
+      <section class="we-will-update">
+        We Will Update Another Recipes Soon!
+      </section>
+      <div class="coco-pops-and-container">
+        <span class="coco-pops-and-container1">
+          <p class="coco-pops1">Coco Pops</p>
+          <p class="and">and</p>
+          <p class="peanut-butter">Peanut Butter</p>
+        </span>
+      </div>
+      <div class="flaberry">Flaberry</div>
+      <div class="rainbow-loops-pancake">Rainbow Loops Pancake</div>
+      <img
+        class="image-icon"
+        loading="lazy"
+        alt=""
+        src="./public/ellipse-10@2x.png"
+      />
+
+      <img
+        class="recipe-image-icon"
+        loading="lazy"
+        alt=""
+        src="./public/ellipse-13@2x.png"
+      />
+
+      <img
+        class="recipes-child"
+        loading="lazy"
+        alt=""
+        src="./public/ellipse-14@2x.png"
+      />
+
+      <div class="selector">
+        <div class="selected-recipes">
+          <div class="recipes3">Recipes</div>
+          <img
+            class="selected-recipes-child"
+            alt=""
+            src="./public/polygon-1.svg"
+          />
+        </div>
+        <div class="frame-parent4">
+          <div class="frame-wrapper1">
+            <div class="froot-loops-wrapper">
+              <div class="froot-loops1">Froot Loops</div>
+            </div>
+          </div>
+          <div class="frame-wrapper2">
+            <div class="pancake-wrapper">
+              <div class="pancake">Pancake</div>
+            </div>
+          </div>
+          <div class="frame-wrapper3">
+            <div class="whipping-cream-wrapper">
+              <div class="whipping-cream">Whipping Cream</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="selector-2">
+        <div class="selector-button">
+          <div class="recipes4">Recipes</div>
+          <img
+            class="selector-button-child"
+            alt=""
+            src="./public/polygon-1.svg"
+          />
+        </div>
+        <div class="frame-parent5">
+          <div class="frame-wrapper4">
+            <div class="corn-flake-wrapper">
+              <div class="corn-flake">Corn Flake</div>
+            </div>
+          </div>
+          <div class="frame-wrapper5">
+            <div class="pancake-container">
+              <div class="pancake1">Pancake</div>
+            </div>
+          </div>
+          <div class="frame-wrapper6">
+            <div class="whipping-cream-container">
+              <div class="whipping-cream1">Whipping Cream</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="selector-3">
+        <div class="recipes-group">
+          <div class="recipes5">Recipes</div>
+          <img class="polygon-icon" alt="" src="./public/polygon-1.svg" />
+        </div>
+        <div class="frame-parent6">
+          <div class="frame-wrapper7">
+            <div class="froot-loops-container">
+              <div class="froot-loops2">Froot Loops</div>
+            </div>
+          </div>
+          <div class="frame-wrapper8">
+            <div class="pancake-frame">
+              <div class="pancake2">Pancake</div>
+            </div>
+          </div>
+          <div class="frame-wrapper9">
+            <div class="whipping-cream-frame">
+              <div class="whipping-cream2">Whipping Cream</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <header class="rectangle-parent1">
+        <div class="frame-child4"></div>
+        <h2 class="vkelloggs2">VKellogg’s</h2>
+        <a class="home2" id="homeText">Home</a>
+        <a class="products2" id="productsText">Products</a>
+        <a class="recipes6">Recipes</a>
+        <a class="about-us2" id="aboutUsText">About Us</a>
+        <a class="contact-us2" id="contactUsText">Contact Us</a>
+        <div class="frame-child5"></div>
+      </header>
+    </div>
+
+    <script>
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+          window.location.href = "./homepage.html";
+        });
+      }
+
+      var productsText = document.getElementById("productsText");
+      if (productsText) {
+        productsText.addEventListener("click", function (e) {
+          window.location.href = "./product.html";
+        });
+      }
+
+      var aboutUsText = document.getElementById("aboutUsText");
+      if (aboutUsText) {
+        aboutUsText.addEventListener("click", function (e) {
+          window.location.href = "./about-us.html";
+        });
+      }
+
+      var contactUsText = document.getElementById("contactUsText");
+      if (contactUsText) {
+        contactUsText.addEventListener("click", function (e) {
+          window.location.href = "./contact-us.html";
+        });
+      }
+    </script>
+  </body>
+</html>

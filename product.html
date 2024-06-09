@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./product.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,400;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Boogaloo:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bayon:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bangers:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="product">
+      <section class="frame-container">
+        <header class="group-header">
+          <div class="frame-child1"></div>
+          <div class="frame-child2"></div>
+          <div class="frame-child3"></div>
+          <div class="nav-links-wrapper">
+            <div class="nav-links">
+              <h2 class="vkelloggs1">VKellogg’s</h2>
+              <div class="nav-items">
+                <div class="nav-item-recipes">
+                  <div class="navbar1">
+                    <a class="home1" id="homeText">Home</a>
+                  </div>
+                  <nav class="nav-items-parent">
+                    <div class="nav-items1">
+                      <a class="products1">Products</a>
+                    </div>
+                    <div class="recipes-parent">
+                      <a class="recipes1" id="recipesText">Recipes</a>
+                      <div class="about-us-wrapper">
+                        <a class="about-us1" id="aboutUsText">About Us</a>
+                      </div>
+                      <a class="contact-us1" id="contactUsText">Contact Us</a>
+                    </div>
+                  </nav>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+        <div class="product-categories-wrapper">
+          <div class="product-categories">
+            <div class="category-adult">
+              <div class="adult-icon"></div>
+              <i class="adult">Adult</i>
+            </div>
+            <div class="content1">
+              <div class="products-adult-parent">
+                <div class="products-adult">
+                  <div class="image-10-parent">
+                    <img
+                      class="image-10-icon"
+                      loading="lazy"
+                      alt=""
+                      src="./public/image-10@2x.png"
+                    />
+
+                    <img
+                      class="image-3-icon"
+                      loading="lazy"
+                      alt=""
+                      src="./public/image-3@2x.png"
+                    />
+                  </div>
+                </div>
+                <div class="mini-wheats-parent">
+                  <h2 class="mini-wheats">Mini Wheats</h2>
+                  <div class="div">5.35$</div>
+                  <div class="original-wheat-parent">
+                    <h2 class="original-wheat">Original Wheat</h2>
+                    <div class="wrapper">
+                      <div class="div1">5.30$</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="product-categories-inner">
+              <div class="frame-div">
+                <div class="frame-parent1">
+                  <img
+                    class="group-icon"
+                    loading="lazy"
+                    alt=""
+                    src="./public/group-12@2x.png"
+                  />
+
+                  <div class="corn-flakes">Corn Flakes</div>
+                </div>
+                <div class="container">
+                  <div class="div2">5.30$</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="line-parent">
+        <div class="line-div"></div>
+        <div class="kids-content">
+          <div class="kids-products">
+            <div class="frame-parent2">
+              <div class="kids-icon-parent">
+                <div class="kids-icon"></div>
+                <i class="kids">Kids</i>
+              </div>
+              <div class="frame-wrapper">
+                <div class="image-8-parent">
+                  <img
+                    class="image-8-icon"
+                    loading="lazy"
+                    alt=""
+                    src="./public/image-8@2x.png"
+                  />
+
+                  <div class="coco-pops-wrapper">
+                    <h2 class="coco-pops">Coco Pops</h2>
+                  </div>
+                  <div class="frame">
+                    <div class="div3">5.20$</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <section class="kids-products-inner">
+              <div class="frame-parent3">
+                <div class="image-7-wrapper">
+                  <img
+                    class="image-7-icon"
+                    loading="lazy"
+                    alt=""
+                    src="./public/image-7@2x.png"
+                  />
+                </div>
+                <h2 class="apple-jacks">Apple Jacks</h2>
+                <div class="wrapper1">
+                  <div class="div4">5.20$</div>
+                </div>
+              </div>
+            </section>
+            <section class="kids-products-child">
+              <div class="products-kids-parent">
+                <div class="products-kids">
+                  <img
+                    class="image-5-icon"
+                    loading="lazy"
+                    alt=""
+                    src="./public/image-5@2x.png"
+                  />
+                </div>
+                <div class="froot-loops-parent">
+                  <div class="froot-loops">Froot Loops</div>
+                  <div class="page-title-wrapper">
+                    <div class="page-title">5.25$</div>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script>
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+          window.location.href = "./homepage.html";
+        });
+      }
+
+      var recipesText = document.getElementById("recipesText");
+      if (recipesText) {
+        recipesText.addEventListener("click", function (e) {
+          window.location.href = "./recipes.html";
+        });
+      }
+
+      var aboutUsText = document.getElementById("aboutUsText");
+      if (aboutUsText) {
+        aboutUsText.addEventListener("click", function (e) {
+          window.location.href = "./about-us.html";
+        });
+      }
+
+      var contactUsText = document.getElementById("contactUsText");
+      if (contactUsText) {
+        contactUsText.addEventListener("click", function (e) {
+          window.location.href = "./contact-us.html";
+        });
+      }
+    </script>
+  </body>
+</html>

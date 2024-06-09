@@ -1,0 +1,453 @@
+.c84aa1ef0a6eec2418accee2f5aa24-icon {
+  width: 100%;
+  height: 385px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.header-background1,
+.header-background2 {
+  width: 545px;
+  height: 304px;
+  position: absolute;
+  margin: 0 !important;
+  background-color: var(--color-firebrick-100);
+  transform-origin: 0 0;
+}
+.header-background1 {
+  bottom: 93.99px;
+  left: -15.66px;
+  transform: rotate(39.7deg);
+}
+.header-background2 {
+  right: -739.4px;
+  bottom: -139.76px;
+  transform: rotate(140.3deg);
+}
+.frame-child6,
+.logo-placeholder {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child6 {
+  height: 135px;
+  background-color: var(--color-whitesmoke-200);
+  display: none;
+}
+.logo-placeholder {
+  height: 13px;
+  background-color: var(--color-firebrick-100);
+  z-index: 1;
+}
+.home3,
+.vkelloggs3 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.vkelloggs3 {
+  height: 94px;
+  width: 304px;
+  white-space: nowrap;
+}
+.home3 {
+  align-self: stretch;
+  height: 54px;
+  cursor: pointer;
+}
+.products-nav {
+  width: 117px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.products4 {
+  text-decoration: none;
+  align-self: stretch;
+  height: 54px;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+.products3 {
+  width: 137px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.about-us4,
+.recipes8 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  z-index: 1;
+}
+.recipes8 {
+  width: 142px;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.about-us4 {
+  align-self: stretch;
+  white-space: nowrap;
+}
+.about-sub-nav {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-smi) 0 0;
+  color: var(--color-tomato-100);
+}
+.contact-us3 {
+  text-decoration: none;
+  height: 54px;
+  width: 163px;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+  cursor: pointer;
+  z-index: 1;
+}
+.contact-sub-nav,
+.recipes-link1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.recipes-link1 {
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.contact-sub-nav {
+  gap: var(--gap-39xl);
+}
+.contact-sub-nav,
+.navigation,
+.recipes7 {
+  justify-content: flex-start;
+}
+.recipes7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-25xl);
+  max-width: 100%;
+}
+.navigation {
+  width: 894px;
+  flex-direction: column;
+  padding: var(--padding-9xl) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-21xl);
+}
+.navbar-items,
+.navbar2,
+.navigation,
+.rectangle-parent2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.navbar-items {
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.navbar2,
+.rectangle-parent2 {
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.navbar2 {
+  width: 1368px;
+  flex-direction: row;
+  padding: 0 var(--padding-3xl);
+}
+.rectangle-parent2 {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke-200);
+  flex-direction: column;
+  padding: 0 0 var(--padding-9xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--color-firebrick-100);
+  font-family: var(--font-figtree);
+}
+.about-us5 {
+  margin: 0;
+  width: 487px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 12px 11px 6.3px rgba(0, 0, 0, 0.25);
+  max-width: 100%;
+  z-index: 1;
+}
+.content2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 186px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.shapes,
+.shapes1 {
+  position: absolute;
+  top: 209px;
+  left: -31px;
+  border-radius: 50%;
+  background: linear-gradient(#ba312a, #ba312a), #ba312a;
+  width: 276px;
+  height: 449px;
+  z-index: 1;
+}
+.shapes1 {
+  top: 0;
+  z-index: 2;
+}
+.graphic-hero {
+  height: 658px;
+  width: 245px;
+  position: absolute;
+  margin: 0 !important;
+  top: -82px;
+  left: -114px;
+}
+.shapes2,
+.shapes3 {
+  position: absolute;
+  top: 203px;
+  left: 2px;
+  border-radius: 50%;
+  background: linear-gradient(#ba312a, #ba312a), #ba312a;
+  width: 276px;
+  height: 449px;
+  z-index: 1;
+}
+.shapes3 {
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+.shapes-parent {
+  height: 652px;
+  width: 252px;
+  position: absolute;
+  margin: 0 !important;
+  top: -97px;
+  right: -170px;
+}
+.body-child {
+  height: 639px;
+  width: 1151px;
+  position: relative;
+  background-color: var(--color-firebrick-100);
+  display: none;
+  max-width: 100%;
+}
+.welcome-to {
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-bayon);
+}
+.vkelloggs4 {
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-figtree);
+}
+.welcome-to-vkelloggs1 {
+  line-height: 161.18%;
+}
+.welcome-to-vkelloggs {
+  margin: 0;
+}
+.founded-in-1906-by-will-keith1 {
+  line-height: 161.18%;
+}
+.founded-in-1906-by-will-keith {
+  margin: 0;
+}
+.blank-line1 {
+  line-height: 161.18%;
+}
+.blank-line {
+  margin: 0;
+}
+.as-we-look-towards-the-future1 {
+  line-height: 161.18%;
+}
+.as-we-look-towards-the-future {
+  margin: 0;
+}
+.blank-line3 {
+  line-height: 161.18%;
+}
+.blank-line2 {
+  margin: 0;
+}
+.thank-you-for-being-a-part-of1 {
+  line-height: 161.18%;
+}
+.thank-you-for-being-a-part-of {
+  margin: 0;
+}
+.blank-line5 {
+  line-height: 161.18%;
+}
+.blank-line4 {
+  margin: 0;
+}
+.welcome-to-vkelloggs-where1 {
+  line-height: 161.18%;
+}
+.welcome-to-vkelloggs-where {
+  margin: 0;
+}
+.welcome-to-vkelloggs-container {
+  height: 94px;
+  width: 922px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 4;
+}
+.body {
+  flex: 1;
+  background-color: var(--color-firebrick-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-4xl) var(--padding-xl) var(--padding-4xl)
+    var(--padding-28xl);
+  box-sizing: border-box;
+  min-height: 639px;
+  max-width: 100%;
+  z-index: 3;
+}
+.about-content,
+.content-parent {
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.about-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  position: relative;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-bayon);
+}
+.content-parent {
+  width: 1151px;
+  flex-direction: column;
+  gap: 101px;
+}
+.about-us3,
+.content-parent,
+.main {
+  display: flex;
+  align-items: flex-start;
+}
+.main {
+  width: 1379px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-81xl);
+  color: #fff9f8;
+  font-family: var(--font-figtree);
+}
+.about-us3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-10xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .content-parent {
+    gap: 50px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .about-us5 {
+    font-size: var(--font-size-31xl);
+  }
+  .body {
+    padding-left: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .contact-sub-nav {
+    gap: var(--gap-10xl);
+  }
+  .content2 {
+    padding-left: 93px;
+    box-sizing: border-box;
+  }
+  .content-parent {
+    gap: var(--gap-6xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .recipes7 {
+    gap: var(--gap-3xl);
+  }
+  .about-us5 {
+    font-size: var(--font-size-11xl);
+  }
+  .content2 {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .welcome-to-vkelloggs-container {
+    font-size: var(--font-size-lg);
+  }
+}

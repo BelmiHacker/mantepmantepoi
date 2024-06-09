@@ -1,0 +1,618 @@
+.we-will-update {
+  position: absolute;
+  top: 795px;
+  left: 287px;
+  font-size: var(--font-size-51xl);
+  font-family: var(--font-figtree);
+  color: var(--color-firebrick-100);
+  text-align: center;
+  display: inline-block;
+  width: 861px;
+  height: 168px;
+}
+.and,
+.coco-pops1,
+.peanut-butter {
+  margin: 0;
+}
+.coco-pops-and-container1 {
+  width: 100%;
+}
+.coco-pops-and-container,
+.flaberry,
+.rainbow-loops-pancake {
+  position: absolute;
+  top: 156px;
+  left: 987px;
+  line-height: 79.48%;
+  display: flex;
+  align-items: center;
+  width: 207px;
+  height: 111px;
+}
+.flaberry,
+.rainbow-loops-pancake {
+  top: 168px;
+  left: 614px;
+  line-height: 32px;
+  justify-content: center;
+  height: 32px;
+}
+.rainbow-loops-pancake {
+  left: 241px;
+  line-height: 89.83%;
+  height: 94px;
+}
+.image-icon,
+.recipe-image-icon,
+.recipes-child {
+  position: absolute;
+  top: 284px;
+  left: 598px;
+  border-radius: 50%;
+  width: 240px;
+  height: 228px;
+  object-fit: contain;
+}
+.recipe-image-icon,
+.recipes-child {
+  left: 225px;
+}
+.recipes-child {
+  left: 971px;
+}
+.recipes3 {
+  height: 40px;
+  width: 90px;
+  position: relative;
+  line-height: 89.83%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.selected-recipes-child {
+  height: 9px;
+  width: 17px;
+  position: absolute;
+  margin: 0 !important;
+  top: 18px;
+  left: 113px;
+  object-fit: contain;
+  z-index: 1;
+}
+.selected-recipes {
+  position: absolute;
+  height: 22.35%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 77.65%;
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-firebrick-100);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+  gap: var(--gap-xs);
+  white-space: nowrap;
+}
+.froot-loops1 {
+  height: 40px;
+  flex: 1;
+  position: relative;
+  line-height: 89.83%;
+  display: flex;
+  align-items: center;
+}
+.frame-wrapper1,
+.froot-loops-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.froot-loops-wrapper {
+  flex: 1;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  border-radius: var(--br-8xs);
+  padding: 0 var(--padding-11xs) 0 var(--padding-xs);
+}
+.pancake {
+  height: 40px;
+  flex: 1;
+  position: relative;
+  line-height: 89.83%;
+  display: flex;
+  align-items: center;
+}
+.frame-wrapper2,
+.pancake-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pancake-wrapper {
+  flex: 1;
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  border-radius: var(--br-8xs);
+  padding: 0 var(--padding-8xs) 0 var(--padding-xs);
+}
+.whipping-cream {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  line-height: 89.83%;
+  display: flex;
+  align-items: center;
+}
+.whipping-cream-wrapper {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent4,
+.frame-wrapper3 {
+  border-radius: var(--br-8xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper3 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-9xs) 0 var(--padding-xs);
+}
+.frame-parent4 {
+  position: absolute;
+  height: 67.04%;
+  width: 100%;
+  top: 32.96%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 1px solid var(--color-firebrick-100);
+  box-sizing: border-box;
+  display: none;
+  flex-direction: column;
+  text-align: left;
+}
+.selector {
+  position: absolute;
+  top: 530px;
+  left: 267px;
+  width: 155px;
+  height: 179px;
+  font-size: var(--font-size-4xl);
+}
+.recipes4 {
+  height: 40px;
+  width: 90px;
+  position: relative;
+  line-height: 89.83%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.selector-button-child {
+  height: 9px;
+  width: 17px;
+  position: absolute;
+  margin: 0 !important;
+  top: 18px;
+  left: 113px;
+  object-fit: contain;
+  z-index: 1;
+}
+.selector-button {
+  position: absolute;
+  height: 22.35%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 77.65%;
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-firebrick-100);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+  gap: var(--gap-xs);
+  white-space: nowrap;
+}
+.corn-flake {
+  height: 40px;
+  flex: 1;
+  position: relative;
+  line-height: 89.83%;
+  display: flex;
+  align-items: center;
+}
+.corn-flake-wrapper,
+.frame-wrapper4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.corn-flake-wrapper {
+  flex: 1;
+}
+.frame-wrapper4 {
+  align-self: stretch;
+  border-radius: var(--br-8xs);
+  padding: 0 var(--padding-11xs) 0 var(--padding-xs);
+}
+.pancake1 {
+  height: 40px;
+  flex: 1;
+  position: relative;
+  line-height: 89.83%;
+  display: flex;
+  align-items: center;
+}
+.frame-wrapper5,
+.pancake-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pancake-container {
+  flex: 1;
+}
+.frame-wrapper5 {
+  align-self: stretch;
+  border-radius: var(--br-8xs);
+  padding: 0 var(--padding-8xs) 0 var(--padding-xs);
+}
+.whipping-cream1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  line-height: 89.83%;
+  display: flex;
+  align-items: center;
+}
+.whipping-cream-container {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent5,
+.frame-wrapper6 {
+  border-radius: var(--br-8xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper6 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-9xs) 0 var(--padding-xs);
+}
+.frame-parent5 {
+  position: absolute;
+  height: 67.04%;
+  width: 100%;
+  top: 32.96%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 1px solid var(--color-firebrick-100);
+  box-sizing: border-box;
+  display: none;
+  flex-direction: column;
+  text-align: left;
+}
+.selector-2 {
+  position: absolute;
+  top: 530px;
+  left: 640px;
+  width: 155px;
+  height: 179px;
+  font-size: var(--font-size-4xl);
+}
+.recipes5 {
+  height: 40px;
+  width: 90px;
+  position: relative;
+  line-height: 89.83%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.polygon-icon {
+  height: 9px;
+  width: 17px;
+  position: absolute;
+  margin: 0 !important;
+  top: 18px;
+  left: 113px;
+  object-fit: contain;
+  z-index: 1;
+}
+.recipes-group {
+  position: absolute;
+  height: 22.35%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 77.65%;
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-firebrick-100);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+  gap: var(--gap-xs);
+  white-space: nowrap;
+}
+.froot-loops2 {
+  height: 40px;
+  flex: 1;
+  position: relative;
+  line-height: 89.83%;
+  display: flex;
+  align-items: center;
+}
+.frame-wrapper7,
+.froot-loops-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.froot-loops-container {
+  flex: 1;
+}
+.frame-wrapper7 {
+  align-self: stretch;
+  border-radius: var(--br-8xs);
+  padding: 0 var(--padding-11xs) 0 var(--padding-xs);
+}
+.pancake2 {
+  height: 40px;
+  flex: 1;
+  position: relative;
+  line-height: 89.83%;
+  display: flex;
+  align-items: center;
+}
+.frame-wrapper8,
+.pancake-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pancake-frame {
+  flex: 1;
+}
+.frame-wrapper8 {
+  align-self: stretch;
+  border-radius: var(--br-8xs);
+  padding: 0 var(--padding-8xs) 0 var(--padding-xs);
+}
+.whipping-cream2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  line-height: 89.83%;
+  display: flex;
+  align-items: center;
+}
+.whipping-cream-frame {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent6,
+.frame-wrapper9 {
+  border-radius: var(--br-8xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper9 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-9xs) 0 var(--padding-xs);
+}
+.frame-parent6 {
+  position: absolute;
+  height: 67.04%;
+  width: 100%;
+  top: 32.96%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 1px solid var(--color-firebrick-100);
+  box-sizing: border-box;
+  display: none;
+  flex-direction: column;
+  text-align: left;
+}
+.selector-3 {
+  position: absolute;
+  top: 530px;
+  left: 1013px;
+  width: 155px;
+  height: 179px;
+  font-size: var(--font-size-4xl);
+}
+.frame-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.vkelloggs2 {
+  margin: 0;
+  position: absolute;
+  top: 13px;
+  left: 22px;
+  font-size: var(--font-size-51xl);
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 304px;
+  height: 94px;
+}
+.home2 {
+  top: 43px;
+  left: 452px;
+  color: inherit;
+  width: 117px;
+  height: 54px;
+  cursor: pointer;
+}
+.about-us2,
+.contact-us2,
+.home2,
+.products2,
+.recipes6 {
+  text-decoration: none;
+  position: absolute;
+  display: inline-block;
+}
+.products2 {
+  top: 43px;
+  left: 613px;
+  color: inherit;
+  width: 137px;
+  height: 54px;
+  cursor: pointer;
+}
+.about-us2,
+.contact-us2,
+.recipes6 {
+  height: 49px;
+}
+.recipes6 {
+  top: 53px;
+  left: 808px;
+  color: var(--color-tomato-100);
+  width: 142px;
+}
+.about-us2,
+.contact-us2 {
+  top: 41px;
+  left: 976px;
+  color: inherit;
+  width: 168px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.contact-us2 {
+  left: 1183px;
+  width: 163px;
+  height: 54px;
+}
+.frame-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-firebrick-100);
+  width: 1435px;
+  height: 13px;
+}
+.recipes2,
+.rectangle-parent1 {
+  width: 100%;
+  color: var(--color-firebrick-100);
+  font-family: var(--font-figtree);
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+  height: 135px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+}
+.recipes2 {
+  height: 1024px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+}
+@media screen and (max-width: 767px) {
+  .we-will-update {
+    font-size: 56px;
+  }
+  .coco-pops-and-container {
+    font-size: var(--font-size-9xl);
+    line-height: 22px;
+  }
+  .flaberry,
+  .rainbow-loops-pancake {
+    font-size: var(--font-size-9xl);
+    line-height: 25px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .we-will-update {
+    font-size: 42px;
+  }
+  .coco-pops-and-container {
+    font-size: var(--font-size-2xl);
+    line-height: 17px;
+  }
+  .flaberry,
+  .rainbow-loops-pancake {
+    font-size: var(--font-size-2xl);
+    line-height: 19px;
+  }
+  .corn-flake,
+  .froot-loops1,
+  .froot-loops2,
+  .pancake,
+  .pancake1,
+  .pancake2,
+  .whipping-cream,
+  .whipping-cream1,
+  .whipping-cream2 {
+    font-size: var(--font-size-lg);
+    line-height: 17px;
+  }
+}
